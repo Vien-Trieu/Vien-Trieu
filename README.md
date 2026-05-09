@@ -32,7 +32,7 @@ Full-stack dealership management system with frontend and backend integration.
 
 ## 📫 Connect With Me
 
-- LinkedIn: 
+- LinkedIn: Vien Trieu
 - Instagram: @_itsyourtv_
 
 ---
