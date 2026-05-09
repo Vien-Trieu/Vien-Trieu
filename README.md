@@ -21,8 +21,6 @@ Full-stack dealership management system with frontend and backend integration.
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
