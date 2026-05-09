@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey, I'm Vien 👋
 
-<!--
-**Vien-Trieu/Vien-Trieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Francis Marion University  
+💻 Software Engineering Intern @ ABB  
+⚙️ Building automation, VR, and full-stack applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🏭 PartDB
+Electron + Supabase inventory management system for manufacturing environments.
+
+### 🎮 VR Mock Interview System
+Unity VR application using AI-powered interview simulations and transcript emailing.
+
+### 🚗 Car Dealership System
+Full-stack dealership management system with frontend and backend integration.
+
+---
+
+## 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: 
+- Instagram: @_itsyourtv_
+
+---
+
+> “Building systems that solve real-world problems.”
