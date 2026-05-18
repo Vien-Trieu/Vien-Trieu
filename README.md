@@ -1,7 +1,7 @@
 # Hey, I'm Vien 👋
 
 🎓 Computer Science Student at Francis Marion University  
-💻 Software Engineer @ ABB  
+💻 Full Stack Software Engineer @ ABB
 ⚙️ Building automation, VR, and full-stack applications
 
 ---
